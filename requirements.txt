@@ -1,0 +1,7 @@
+gTTS==2.2.3
+gradio==2.9.1
+speechrecognition==3.8.1
+moviepy==1.0.3
+pytube==10.8.5
+youtube-transcript-api==0.4.4
+validators==0.18.2
